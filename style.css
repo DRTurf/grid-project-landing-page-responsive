@@ -207,11 +207,7 @@ html , body{
     }
 }
 
-@media screen and (min-width:1097px) {
-    #left-bottom {
-        padding:50px 60px;
-    }
-}
+   
 
 @media screen and (min-width:1689px) {
     #left-bottom p{
