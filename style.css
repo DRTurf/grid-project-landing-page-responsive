@@ -210,9 +210,9 @@ html , body{
    
 
 @media screen and (min-width:1689px) {
-/*     #left-bottom{
-        padding:50px 60px;
-    } */
+    #left-bottom{
+        padding:45px 60px;
+    }
     #left-bottom p{
         width: 40%;
         font-size: 100%;
