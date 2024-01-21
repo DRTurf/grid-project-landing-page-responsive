@@ -210,15 +210,12 @@ html , body{
    
 
 @media screen and (min-width:1689px) {
-    #left-bottom{
+/*     #left-bottom{
         padding:50px 60px;
-    }
+    } */
     #left-bottom p{
         width: 40%;
         font-size: 100%;
-        text-align: left;
-        font-weight: bold;
-        color: #000000dd;
     }
 }
 
